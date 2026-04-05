@@ -1,5 +1,4 @@
-# Ndwr04.github.io
-Portfolio of a MIAGE student showcasing projects in data science, data analysis, NLP and web development
+# Portfolio of a MIAGE student showcasing projects in data science, data analysis, NLP and web development
 
 ## MoodWorld : Analyse émotionnelle de l'actualité
 Projet collaboratif développé avec Ines Laouer et Omaima Mahjoub.
