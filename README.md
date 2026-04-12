@@ -1,20 +1,26 @@
 # Portfolio of a MIAGE student showcasing projects in data science, data analysis, NLP and web development
 
 ## MoodWorld : Analyse émotionnelle de l'actualité
+
+MoodWorld cartographie le ressenti émotionnel de l'actualité mondiale.
+En analysant des articles de presse issus de plusieurs pays et langues via du NLP et un LLM, l'application classifie chaque article selon son émotion dominante : joie, colère, peur, etc associée à une couleur.
+Le résultat : une carte interactive et des graphiques pour explorer les tendances émotionnelles par pays et par thème (politique, écologie, climat…), et percevoir ce que les médias ressentent au-delà de ce qu'ils disent.
+
 Projet collaboratif développé avec Ines Laouer et Omaima Mahjoub.
 [Voir le projet sur GitHub](https://github.com/LIness2/MoodWorld)
 
-MoodWorld propose une lecture émotionnelle de l’actualité mondiale. En analysant des articles de presse issus de plusieurs pays et formulés en différentes langues, ce projet cartographie les émotions ressenties associées à divers thèmes(politique, écologie, climat, etc.).
-L’objectif est double: au premier abord il s’agit d’offrir une visualisation interactive permettant d’explorer les tendances émotionnelles par pays et sujets. Mais au delà de cette démarche, il favorise une prise de recul face à l’actualité et met en lumière les ressentis sous-jacents aux discours médiatiques.
 
-L’analyses des émotions présentes dans l’actualité mondiale s’effectue à l’aide des traitements automatiques de langages naturels(NLP). En s’appuyant sur un Large Language Model (LLM), notre application classifie des articles de presse selon les émotions dominantes qu’ils véhiculent. Les émotions sont ensuite associées à une couleur(par exemple:jaune pour la joie, rouge pour la colère...).
+## StockSmartPro : Application web de gestion de stock 
 
-Enfin, les résultats peuvent être visualisés sous forme de cartographie interactive et de graphique qui permettent une lecture à la fois émotionnelle et géographique de l’actualité mondiale.
+La gestion du stock est une activité essentielle dans le fonctionnement d’un magasin. Lorsqu’elle est
+réalisée manuellement, elle entraîne des oublis, des erreurs de quantité et une mauvaise visibilité sur les
+produits disponibles.
+StockSmart Pro a été conçu comme une application web moderne permettant de centraliser l’ensemble
+de ces opérations. Le projet regroupe la gestion des produits, des catégories, des mouvements de stock
+et des utilisateurs, tout en intégrant une architecture multi-enseignes.
 
+Objectif du projet : proposer une plateforme simple, fiable et visuellement professionnelle pour suivre les stocks en temps réel, sécuriser l’accès aux données et assurer la traçabilité des opérations.
 
-## StockSmartPro : Application web de gestion de stock pour la grande distribution
 Projet collaboratif développé avec Omaima Mahjoub.
 [Voir le projet sur GitHub](https://github.com/Omaima05/StockSmart)
-
-Site permettant d’enregistrer et d’organiser les produits par catégories. L’application affiche en temps réel les quantités disponibles en stock. Elle facilite la gestion des entrées lors des approvisionnements ainsi que des sorties liées aux ventes, pertes ou casses.
 
